@@ -1,0 +1,6 @@
+{
+  "name": "CAFE 007 Burewala",
+  "description": "Ultra-modern, premium single-page website for CAFE 007 Burewala. Features active hours highlighting, dynamic interactive digital menu with category filtering, stunning dark cozy coffee theme, custom client-side reviews, and precise location details with Maps links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
